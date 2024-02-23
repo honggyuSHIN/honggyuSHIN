@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋 This is HongGyu. Thank you for your visiting.
 
 <!--
 **honggyuSHIN/honggyuSHIN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
